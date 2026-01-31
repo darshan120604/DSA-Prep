@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/darshan120604/DSA-Prep/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/darshan120604/DSA-Prep/tree/master/0041-first-missing-positive) |
 | [0135-candy](https://github.com/darshan120604/DSA-Prep/tree/master/0135-candy) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/darshan120604/DSA-Prep/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/darshan120604/DSA-Prep/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/darshan120604/DSA-Prep/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/darshan120604/DSA-Prep/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
