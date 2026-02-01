@@ -6,11 +6,11 @@ public:
         // if(n==cnt){
         //     return (nums[0] + nums[1] + nums[3]);
         // }
-        int first = nums[0]; 
-        sort(nums.begin(), nums.end());
-        int ans = max(nums[0] + nums[1] + nums[2] , first + nums[0] + nums[1]);
+        // int first = nums[0]; 
+        sort(nums.begin() + 1, nums.end());
+        // int ans = max(nums[0] + nums[1] + nums[2]);
       
-        return ans;
+        return nums[0] + nums[1] + nums[2];
 
 
     }
