@@ -2,43 +2,24 @@ class Solution {
 public:
     int countBinarySubstrings(string s) {
         int ans = 0;
-        
+
         int o = 0;
         int z = 0;
-        
+        s.push_back('2');
         int n = s.size();
-        for(int i =0; i<n; i++){
-            if(s[i] == '0'){
-                while(s[i]=='0' && i<n){
-                    i++;
-                    z++;
-                }
-                ans+= min(z,o);
-                o=0;
-                while(s[i]=='1' && i<n){
-                    i++;
-                    o++;
-                }
-                ans+= min(z,o);
-                z=0;
+        int prev = 0;
+        int cnt = 0;
+        for (int i = 0; i < n - 1; i++) {
+            if (s[i] == s[i + 1]) {
+                cnt++;
+            } else {
+                cnt++; 
+                ans += min(prev, cnt);
+                prev = cnt;
+                cnt = 0;
             }
-            if(s[i] == '1'){
-                while(s[i]=='1' && i<n){
-                    i++;
-                    o++;
-                }
-                ans+= min(z,o);
-                z=0;
-                while(s[i]=='0' && i<n){
-                    i++;
-                    z++;
-                }
-                ans+= min(z,o);
-                o=0;
-            }
-            i--;
         }
-
+        ans += min(prev, cnt);
         return ans;
     }
 };
