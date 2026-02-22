@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/darshan120604/DSA-Prep/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/darshan120604/DSA-Prep/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshan120604/DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/darshan120604/DSA-Prep/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String
