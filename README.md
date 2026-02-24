@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/darshan120604/DSA-Prep/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/darshan120604/DSA-Prep/tree/master/0041-first-missing-positive) |
 | [0135-candy](https://github.com/darshan120604/DSA-Prep/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/darshan120604/DSA-Prep/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/darshan120604/DSA-Prep/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/darshan120604/DSA-Prep/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/darshan120604/DSA-Prep/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/darshan120604/DSA-Prep/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshan120604/DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
