@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshan120604/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/darshan120604/DSA-Prep/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/darshan120604/DSA-Prep/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/darshan120604/DSA-Prep/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/darshan120604/DSA-Prep/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/darshan120604/DSA-Prep/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
