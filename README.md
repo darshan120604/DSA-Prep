@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/darshan120604/DSA-Prep/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshan120604/DSA-Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/darshan120604/DSA-Prep/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshan120604/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/darshan120604/DSA-Prep/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/darshan120604/DSA-Prep/tree/master/0135-candy) |
 | [1382-balance-a-binary-search-tree](https://github.com/darshan120604/DSA-Prep/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/darshan120604/DSA-Prep/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Linked List
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshan120604/DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/darshan120604/DSA-Prep/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
