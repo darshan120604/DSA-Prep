@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darshan120604/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/darshan120604/DSA-Prep/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/darshan120604/DSA-Prep/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/darshan120604/DSA-Prep/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/darshan120604/DSA-Prep/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
+| [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/darshan120604/DSA-Prep/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/darshan120604/DSA-Prep/tree/master/3719-longest-balanced-subarray-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/darshan120604/DSA-Prep/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/darshan120604/DSA-Prep/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/darshan120604/DSA-Prep/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/darshan120604/DSA-Prep/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
