@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/darshan120604/DSA-Prep/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/darshan120604/DSA-Prep/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/darshan120604/DSA-Prep/tree/master/0796-rotate-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan120604/DSA-Prep/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/darshan120604/DSA-Prep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/darshan120604/DSA-Prep/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
