@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/2906-construct-product-matrix) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/darshan120604/DSA-Prep/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/darshan120604/DSA-Prep/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3161-block-placement-queries](https://github.com/darshan120604/DSA-Prep/tree/master/3161-block-placement-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/darshan120604/DSA-Prep/tree/master/3379-transformed-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3161-block-placement-queries](https://github.com/darshan120604/DSA-Prep/tree/master/3161-block-placement-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/darshan120604/DSA-Prep/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/darshan120604/DSA-Prep/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/darshan120604/DSA-Prep/tree/master/0796-rotate-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/darshan120604/DSA-Prep/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
