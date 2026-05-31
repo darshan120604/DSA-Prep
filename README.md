@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/darshan120604/DSA-Prep/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/darshan120604/DSA-Prep/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/darshan120604/DSA-Prep/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/darshan120604/DSA-Prep/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/2906-construct-product-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshan120604/DSA-Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/darshan120604/DSA-Prep/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2126-destroying-asteroids](https://github.com/darshan120604/DSA-Prep/tree/master/2126-destroying-asteroids) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan120604/DSA-Prep/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/darshan120604/DSA-Prep/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/darshan120604/DSA-Prep/tree/master/3634-minimum-removals-to-balance-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/darshan120604/DSA-Prep/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/darshan120604/DSA-Prep/tree/master/2126-destroying-asteroids) |
 ## Linked List
 |  |
 | ------- |
