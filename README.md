@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/darshan120604/DSA-Prep/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshan120604/DSA-Prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/darshan120604/DSA-Prep/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/darshan120604/DSA-Prep/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/2906-construct-product-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/darshan120604/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/darshan120604/DSA-Prep/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan120604/DSA-Prep/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/darshan120604/DSA-Prep/tree/master/3713-longest-balanced-substring-i) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/darshan120604/DSA-Prep/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/darshan120604/DSA-Prep/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/darshan120604/DSA-Prep/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/darshan120604/DSA-Prep/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
