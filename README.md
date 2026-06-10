@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/darshan120604/DSA-Prep/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/darshan120604/DSA-Prep/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/darshan120604/DSA-Prep/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshan120604/DSA-Prep/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/darshan120604/DSA-Prep/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/darshan120604/DSA-Prep/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/darshan120604/DSA-Prep/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/darshan120604/DSA-Prep/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
