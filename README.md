@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/darshan120604/DSA-Prep/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/darshan120604/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/darshan120604/DSA-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshan120604/DSA-Prep/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/darshan120604/DSA-Prep/tree/master/0135-candy) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3161-block-placement-queries](https://github.com/darshan120604/DSA-Prep/tree/master/3161-block-placement-queries) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/darshan120604/DSA-Prep/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/darshan120604/DSA-Prep/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2906-construct-product-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/2906-construct-product-matrix) |
