@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/darshan120604/DSA-Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/darshan120604/DSA-Prep/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan120604/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/darshan120604/DSA-Prep/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/darshan120604/DSA-Prep/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/darshan120604/DSA-Prep/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshan120604/DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/darshan120604/DSA-Prep/tree/master/0868-binary-gap) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/darshan120604/DSA-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshan120604/DSA-Prep/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/darshan120604/DSA-Prep/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3161-block-placement-queries](https://github.com/darshan120604/DSA-Prep/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshan120604/DSA-Prep/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
