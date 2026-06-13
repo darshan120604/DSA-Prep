@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/darshan120604/DSA-Prep/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/darshan120604/DSA-Prep/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/darshan120604/DSA-Prep/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan120604/DSA-Prep/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/darshan120604/DSA-Prep/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/darshan120604/DSA-Prep/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/darshan120604/DSA-Prep/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/darshan120604/DSA-Prep/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/darshan120604/DSA-Prep/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3838-weighted-word-mapping](https://github.com/darshan120604/DSA-Prep/tree/master/3838-weighted-word-mapping) |
 ## Doubly-Linked List
 |  |
 | ------- |
