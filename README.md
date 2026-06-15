@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/darshan120604/DSA-Prep/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/darshan120604/DSA-Prep/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/darshan120604/DSA-Prep/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/darshan120604/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/darshan120604/DSA-Prep/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshan120604/DSA-Prep/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/darshan120604/DSA-Prep/tree/master/0203-remove-linked-list-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/darshan120604/DSA-Prep/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/darshan120604/DSA-Prep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
