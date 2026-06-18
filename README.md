@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/darshan120604/DSA-Prep/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshan120604/DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/darshan120604/DSA-Prep/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/darshan120604/DSA-Prep/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
