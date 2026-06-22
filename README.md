@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan120604/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/darshan120604/DSA-Prep/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/darshan120604/DSA-Prep/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan120604/DSA-Prep/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/darshan120604/DSA-Prep/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/darshan120604/DSA-Prep/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/darshan120604/DSA-Prep/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/darshan120604/DSA-Prep/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan120604/DSA-Prep/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/darshan120604/DSA-Prep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/darshan120604/DSA-Prep/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshan120604/DSA-Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/darshan120604/DSA-Prep/tree/master/3713-longest-balanced-substring-i) |
 ## Math
