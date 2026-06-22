@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/darshan120604/DSA-Prep/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/darshan120604/DSA-Prep/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/darshan120604/DSA-Prep/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/darshan120604/DSA-Prep/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/darshan120604/DSA-Prep/tree/master/0075-sort-colors) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/darshan120604/DSA-Prep/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/darshan120604/DSA-Prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshan120604/DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darshan120604/DSA-Prep/tree/master/1344-angle-between-hands-of-a-clock) |
