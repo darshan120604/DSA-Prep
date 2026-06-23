@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/darshan120604/DSA-Prep/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/darshan120604/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan120604/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/darshan120604/DSA-Prep/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/darshan120604/DSA-Prep/tree/master/1189-maximum-number-of-balloons) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/darshan120604/DSA-Prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/darshan120604/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/darshan120604/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/darshan120604/DSA-Prep/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/darshan120604/DSA-Prep/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/darshan120604/DSA-Prep/tree/master/0796-rotate-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/darshan120604/DSA-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshan120604/DSA-Prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/darshan120604/DSA-Prep/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/darshan120604/DSA-Prep/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshan120604/DSA-Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshan120604/DSA-Prep/tree/master/1833-maximum-ice-cream-bars) |
