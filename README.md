@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/darshan120604/DSA-Prep/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/darshan120604/DSA-Prep/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/darshan120604/DSA-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/darshan120604/DSA-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/darshan120604/DSA-Prep/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/darshan120604/DSA-Prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/darshan120604/DSA-Prep/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/darshan120604/DSA-Prep/tree/master/0069-sqrtx) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/darshan120604/DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darshan120604/DSA-Prep/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
