@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/darshan120604/DSA-Prep/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/darshan120604/DSA-Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/darshan120604/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/darshan120604/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/darshan120604/DSA-Prep/tree/master/0485-max-consecutive-ones) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/darshan120604/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/darshan120604/DSA-Prep/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/darshan120604/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/darshan120604/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan120604/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/darshan120604/DSA-Prep/tree/master/0874-walking-robot-simulation) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/darshan120604/DSA-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshan120604/DSA-Prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/darshan120604/DSA-Prep/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/darshan120604/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/darshan120604/DSA-Prep/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/darshan120604/DSA-Prep/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshan120604/DSA-Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
