@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/darshan120604/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/darshan120604/DSA-Prep/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/darshan120604/DSA-Prep/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/darshan120604/DSA-Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/darshan120604/DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan120604/DSA-Prep/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/darshan120604/DSA-Prep/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/darshan120604/DSA-Prep/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/darshan120604/DSA-Prep/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/darshan120604/DSA-Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan120604/DSA-Prep/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/darshan120604/DSA-Prep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/darshan120604/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/darshan120604/DSA-Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/darshan120604/DSA-Prep/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/darshan120604/DSA-Prep/tree/master/3634-minimum-removals-to-balance-array) |
 ## Recursion
