@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan120604/DSA-Prep/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/darshan120604/DSA-Prep/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/darshan120604/DSA-Prep/tree/master/3713-longest-balanced-substring-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/darshan120604/DSA-Prep/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/darshan120604/DSA-Prep/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/darshan120604/DSA-Prep/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/darshan120604/DSA-Prep/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/darshan120604/DSA-Prep/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/darshan120604/DSA-Prep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/darshan120604/DSA-Prep/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
