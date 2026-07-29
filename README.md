@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/darshan120604/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/darshan120604/DSA-Prep/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/darshan120604/DSA-Prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/darshan120604/DSA-Prep/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/darshan120604/DSA-Prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/darshan120604/DSA-Prep/tree/master/1382-balance-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/darshan120604/DSA-Prep/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/darshan120604/DSA-Prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan120604/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/darshan120604/DSA-Prep/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/darshan120604/DSA-Prep/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/darshan120604/DSA-Prep/tree/master/2196-create-binary-tree-from-descriptions) |
